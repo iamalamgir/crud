@@ -1,0 +1,36 @@
+.navbar {
+    height: 60px;
+    border: 2px solid #000000;
+}
+
+.navbar button {
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    background-color: coral;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 2px 15px 2px 15px;
+}
+
+.navbar button:hover {
+    background-color: #000000;
+    color: coral;
+}
+
+#home {
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    background-color: #000000;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+#home:hover {
+    background-color: coral;
+    color: #000000;
+}

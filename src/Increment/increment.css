@@ -1,0 +1,23 @@
+.increment {
+    text-align: center;
+    border: 2px solid coral;
+    width: 150px;
+    height: 150px;
+    color: aqua;
+    margin: auto;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    background-color: brown;
+    color: #ffffff;
+    margin-top: 10px;
+    border-radius: 2px 15px 2px 15px;
+}
+
+button:hover {
+    background-color: aqua;
+    color: #000000;
+}
